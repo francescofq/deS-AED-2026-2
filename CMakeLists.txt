@@ -10,4 +10,5 @@ add_executable(deS_AED_2026_2 main.cpp
         src/hash/hashMap.h
         src/linear/stack.h
         src/linear/queue.h
-        src/linear/deque.h)
+        src/linear/deque.h
+        src/hash/hashMap2.h)
